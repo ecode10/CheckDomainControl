@@ -1,0 +1,17 @@
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/bin/Debug/net6.0/CheckDomainControl
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/bin/Debug/net6.0/CheckDomainControl.deps.json
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/bin/Debug/net6.0/CheckDomainControl.runtimeconfig.json
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/bin/Debug/net6.0/CheckDomainControl.dll
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/bin/Debug/net6.0/CheckDomainControl.pdb
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/bin/Debug/net6.0/CheckDomain.dll
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/obj/Debug/net6.0/CheckDomainControl.csproj.AssemblyReference.cache
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/obj/Debug/net6.0/CheckDomainControl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/obj/Debug/net6.0/CheckDomainControl.AssemblyInfoInputs.cache
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/obj/Debug/net6.0/CheckDomainControl.AssemblyInfo.cs
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/obj/Debug/net6.0/CheckDomainControl.csproj.CoreCompileInputs.cache
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/obj/Debug/net6.0/CheckDomainControl.csproj.CopyComplete
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/obj/Debug/net6.0/CheckDomainControl.dll
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/obj/Debug/net6.0/refint/CheckDomainControl.dll
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/obj/Debug/net6.0/CheckDomainControl.pdb
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/obj/Debug/net6.0/CheckDomainControl.genruntimeconfig.cache
+/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/obj/Debug/net6.0/ref/CheckDomainControl.dll

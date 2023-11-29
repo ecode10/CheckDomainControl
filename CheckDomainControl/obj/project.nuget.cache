@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xM9ucqboDw6mBmeuQa+2u/KmyIBLRXU5oTTkVr2w7ezop0UZ/ugKUcN8Mj2oW+YyErkMmSe+9C+8bbHW5p8Qdw==",
+  "success": true,
+  "projectFilePath": "/Users/mauriciojunior/Projects/CheckDomainControl/CheckDomainControl/CheckDomainControl.csproj",
+  "expectedPackageFiles": [
+    "/Users/mauriciojunior/.nuget/packages/checkdomain/1.0.1/checkdomain.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
